@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Fabio Muriel👋</h1>
+</div>
+<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 
-<!--
-**FabioMuriel/FabioMuriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 📲 Mobile developer
+- 👨‍💻 Web Developer
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+<h2>Proximamente...</h2>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/FabioMuriel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabioMuriel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabioMuriel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
