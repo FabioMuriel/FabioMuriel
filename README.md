@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy Fabio Muriel👋</h1>
 </div>
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+<img src="https://i.imgur.com/W5eSm8t.jpeg">
 
 ## Sobre mi
 
