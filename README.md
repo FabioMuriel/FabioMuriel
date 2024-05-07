@@ -4,6 +4,8 @@
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 <img src="https://i.imgur.com/W5eSm8t.jpeg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabioMuriel&label=Profile%20views&color=0e75b6&style=flat" alt="FabioMuriel" /> </p>
+
 ## Sobre mi
 
 - 📲 Mobile developer
