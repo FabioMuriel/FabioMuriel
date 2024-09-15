@@ -11,7 +11,6 @@
 - 📲 Mobile developer
 - 👨‍💻 Web Developer
 <br>
-
 ## Proyectos
 <h2>Proximamente...</h2>
 
