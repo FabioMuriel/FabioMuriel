@@ -4,7 +4,11 @@
 
 <img src="https://i.imgur.com/W5eSm8t.jpeg" alt="Fabio Muriel" width="800px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabioMuriel&label=Profile%20views&color=0e75b6&style=flat" alt="FabioMuriel" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FabioMuriel&label=Profile%20views&color=0e75b6&style=flat" alt="FabioMuriel" style="margin-right: 10px;"/>
+  <img src="https://www.codewars.com/users/FabioMuriel/badges/small" alt="Codewars Badge"/>
+</p>
+
 
 ## 👨‍💻 Sobre mí
 
