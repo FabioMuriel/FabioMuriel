@@ -1,71 +1,128 @@
 <div align="center">
-<h1 align="center">Hola, soy Fabio Muriel 👋</h1>
+
+<img src="https://i.imgur.com/W5eSm8t.jpeg" alt="Fabio Muriel" width="100%" style="border-radius: 12px;"/>
+
+<br/>
+
+# Hola, soy Fabio Muriel 👋
+
+### Desarrollador Full Stack
+
+<p align="center">
+  <a href="https://linkedin.com/in/fabiomuriel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/FabioMuriel"><img src="https://img.shields.io/github/followers/FabioMuriel?label=Seguidores&style=flat&logo=github" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FabioMuriel&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://www.codewars.com/users/FabioMuriel/badges/small" alt="Codewars"/>
+</p>
+
 </div>
 
-<img src="https://i.imgur.com/W5eSm8t.jpeg" alt="Fabio Muriel" width="800px">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FabioMuriel&label=Profile%20views&color=0e75b6&style=flat" alt="FabioMuriel" style="margin-right: 10px;"/>
-  <img src="https://www.codewars.com/users/FabioMuriel/badges/small" alt="Codewars Badge"/>
-</p>
+---
 
 ## 👨‍💻 Sobre mí
 
-Soy un apasionado desarrollador de software con más de 2 años de experiencia, especializado en **desarrollo móvil** y **desarrollo web**. Siempre busco estar a la vanguardia de la tecnología y mejorar mis habilidades a través de nuevos retos y proyectos. Mi experiencia abarca desde la creación de interfaces de usuario intuitivas hasta la implementación de soluciones escalables en el backend.
+Soy un desarrollador Full Stack apasionado con **más de 3 años de experiencia** construyendo interfaces intuitivas y soluciones backend escalables. Me especializo en **desarrollo móvil y web**, y me desenvuelvo muy bien en equipos multidisciplinarios donde la comunicación y la adaptabilidad marcan la diferencia.
 
-### 🛠️ Tecnologías y Herramientas:
+- 🚀 Siempre explorando nuevas tecnologías y mejores prácticas
+- 🤝 Habilidades fuertes en trabajo en equipo y comunicación asertiva
+- 📱 Apasionado por crear experiencias móviles de alto impacto
+- 🌱 En constante aprendizaje y crecimiento profesional
 
-#### Lenguajes de programación
+---
+
+## 🛠 Stack Tecnológico
+
+### Lenguajes de Programación
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-#### Frameworks y Librerías
+### Frameworks y Librerías
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://styled-components.com/favicon.png" alt="Styled Components" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components"/>
 </p>
 
-#### Bases de Datos
+### Bases de Datos
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-#### Herramientas y Plataformas
+### Herramientas y Plataformas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
-Además, tengo una gran habilidad para el **trabajo en equipo**, **comunicación asertiva** y **adaptabilidad** a entornos cambiantes, lo que me permite colaborar eficazmente en equipos multidisciplinarios.
+---
 
-## 🚀 Proyectos
+## 🚀 Proyectos Destacados
 
-<h3>Próximamente...</h3>
+> 🍳 Próximamente — estoy construyendo algo genial, ¡vuelve pronto!
 
-## ⚙️ &nbsp;GitHub Analytics
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| 🔧 Próximamente | — | — | — |
 
-<p align="center">
-<a href="https://github.com/FabioMuriel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabioMuriel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabioMuriel&layout=compact&langs_count=8&theme=algolia"/>
+---
+
+## 🏅 Certificaciones y Logros
+
+> Esta sección se actualizará pronto con mis certificaciones y logros más relevantes.
+
+---
+
+## 📊 Estadísticas de GitHub
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabioMuriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&locale=es"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabioMuriel&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FabioMuriel&theme=dark&hide_border=true&locale=es"/>
+</div>
+
+## 📬 Contacto
+
+<div align="center">
+
+¿Tienes un proyecto interesante o quieres colaborar? ¡Hablemos!
+<br/>
+
+<a href="https://linkedin.com/in/fabiomuriel">
+  <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p>
+&nbsp;
+<a href="mailto:tu@email.com">
+  <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"El código es como el humor: si tienes que explicarlo, es malo." – Cory House*
+
+</div>
